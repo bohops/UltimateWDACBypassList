@@ -3,9 +3,9 @@ A centralized resource for previously documented WDAC bypass techniques.
 
 - Many of the LOLBINs are included on the [Microsoft Recommended Block Rules List](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
 
-==============================
+------------------------------
 Block Rules "LOLBIN" Write-Ups
-==============================
+------------------------------
 
 *addinprocess.exe
  - James Forshaw (@tiraniddo)
