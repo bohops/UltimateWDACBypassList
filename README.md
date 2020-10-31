@@ -173,26 +173,26 @@ A centralized resource for previously documented WDAC bypass techniques
 ------------------------------
 ### On Block List - Not Documented Yet...
 
--addinutil.exe
--bash.exe
--dbgsvc.exe
--kd.exe
--kill.exe
--lxrun.exe
--ntkd.exe
--ntsd.exe
--texttransform.exe
--wfc.exe
--wsl.exe
--wslconfig.exe
--wslhost.exe
+- addinutil.exe
+- bash.exe
+- dbgsvc.exe
+- kd.exe
+- kill.exe
+- lxrun.exe
+- ntkd.exe
+- ntsd.exe
+- texttransform.exe
+- wfc.exe
+- wsl.exe
+- wslconfig.exe
+- wslhost.exe
 
 
 ------------------------------
 ### Libraries On List (Independent usage may/may not be interesting)
 
--Microsoft.Build.dll
--Microsoft.Build.Framework.dll
--msbuild.dll
--lxssmanager.dll
--system.management.automation.dll
+- Microsoft.Build.dll
+- Microsoft.Build.Framework.dll
+- msbuild.dll
+- lxssmanager.dll
+- system.management.automation.dll
