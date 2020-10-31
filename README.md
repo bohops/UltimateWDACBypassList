@@ -85,7 +85,7 @@ A centralized resource for previously documented WDAC bypass techniques
 #### mshta.exe
  - Unknown (Documented by @conscioushacker)
  -  Application Whitelisting Bypass: mshta.exe
-   - https://web.archive.org/web/20171118145940/http://blog.conscioushacker.io/index.php/2017/11/17/application-whitelisting-bypass-mshta-exe/
+    - https://web.archive.org/web/20171118145940/http://blog.conscioushacker.io/index.php/2017/11/17/application-whitelisting-bypass-mshta-exe/
 
 #### powershellcustomhost.exe
  - Lasse Trolle Borup (@TrolleBorup)
