@@ -12,7 +12,7 @@ A centralized resource for previously documented WDAC bypass techniques
 #### addinprocess.exe
  - James Forshaw (@tiraniddo)
  - DG on Windows 10 S: Executing Arbitrary Code
-  - https://www.tiraniddo.dev/2017/07/dg-on-windows-10-s-executing-arbitrary.html
+   - https://www.tiraniddo.dev/2017/07/dg-on-windows-10-s-executing-arbitrary.html
 
 #### addinprocess32.exe
  - James Forshaw (@tiraniddo)
