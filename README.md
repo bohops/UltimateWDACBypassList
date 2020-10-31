@@ -1,5 +1,5 @@
 # Ultimate WDAC ByPass List
-A centralized resource for previously documented WDAC bypass techniques. 
+A centralized resource for previously documented WDAC bypass techniques
 
 *Many of the LOLBINs are included on the [Microsoft Recommended Block Rules List](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
 
