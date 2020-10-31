@@ -1,7 +1,9 @@
-# UltimateWDACByPassList
+# Ultimate WDAC ByPass List
 A centralized resource for previously documented WDAC bypass techniques. 
 
 *Many of the LOLBINs are included on the [Microsoft Recommended Block Rules List](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
+
+*This repository was inspired by [Oddvar Moe](https://twitter.com/Oddvarmoe)'s [Ultimate AppLocker Bypass List](https://github.com/api0cradle/UltimateAppLockerByPassList)
 
 ------------------------------
 ### Block Rules "LOLBIN" Write-Ups
