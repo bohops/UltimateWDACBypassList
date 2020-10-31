@@ -1,11 +1,11 @@
 # UltimateWDACByPassList
 A centralized resource for previously documented WDAC bypass techniques. 
 
-- Many of the LOLBINs are included on the [Microsoft Recommended Block Rules List](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
+*Many of the LOLBINs are included on the [Microsoft Recommended Block Rules List](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
 
 ------------------------------
 Block Rules "LOLBIN" Write-Ups
-------------------------------
+
 
 *addinprocess.exe
  - James Forshaw (@tiraniddo)
@@ -116,9 +116,9 @@ Block Rules "LOLBIN" Write-Ups
   - https://web.archive.org/web/20190814201250/https://subt0x11.blogspot.com/2018/04/wmicexe-whitelisting-bypass-hacking.html
 
 
-=====================================================
+------------------------------
 Other "Unsigned Code Execution" LOLBINs (not on list)
-=====================================================
+
 
 *dbgsrv.exe
  - Casey Smith (@subTee) , Ross Wolf (@rw_access)
@@ -127,9 +127,9 @@ Other "Unsigned Code Execution" LOLBINs (not on list)
  - Fantastic Red-Team Attacks and How to Find Them
   - https://i.blackhat.com/USA-19/Thursday/us-19-Smith-Fantastic-Red-Team-Attacks-And-How-To-Find-Them.pdf
 
-=====================================================================================
+------------------------------
 COM/Microsoft Office/Active Scripting Languages (jscript.dll, msxml3.dll, msxml6.dll)
-=====================================================================================
+
 
 - Sneaking Past Device Guard
   - Philip Tsukerman (@PhilipTsukerman)
@@ -156,23 +156,22 @@ COM/Microsoft Office/Active Scripting Languages (jscript.dll, msxml3.dll, msxml6
   - https://oddvar.moe/2017/08/13/bypassing-device-guard-umci-using-chm-cve-2017-8625/
 
  
-==============================
+------------------------------
 Novel Living-of-the-land Abuse
-==============================
+
  - cc: @mattifestation, @enigma0x3, @tiraniddo, @hexacorn
  - To do...
 
 
-==========
+------------------------------
 PowerShell
-==========
+
  - cc: @mattifestation, @enigma0x3, @tiraniddo
  - To do...
 
 
-===============================
-On List - Not Documented Yet...
-===============================
+------------------------------
+On Block List - Not Documented Yet...
 
 addinutil.exe
 bash.exe
