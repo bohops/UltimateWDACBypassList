@@ -131,27 +131,27 @@ A centralized resource for previously documented WDAC bypass techniques
 ------------------------------
 ### COM/Microsoft Office/Active Scripting Languages (jscript.dll, msxml3.dll, msxml6.dll)
 
-- Sneaking Past Device Guard
+#### Sneaking Past Device Guard
   - Philip Tsukerman (@PhilipTsukerman)
   - https://conference.hitb.org/hitbsecconf2019ams/materials/D2T1%20-%20Sneaking%20Past%20Device%20Guard%20-%20Philip%20Tsukerman.pdf
 
-- WSH INJECTION: A CASE STUDY
+#### WSH INJECTION: A CASE STUDY
   - Matt Nelson (@enigma0x3)
   - https://enigma0x3.net/2017/08/03/wsh-injection-a-case-study/
   
-- Application Whitelisting Bypass and Arbitrary Unsigned Code Execution Technique in winrm.vbs
+#### Application Whitelisting Bypass and Arbitrary Unsigned Code Execution Technique in winrm.vbs
   - Matt Graeber (@mattifestation)
   - https://posts.specterops.io/application-whitelisting-bypass-and-arbitrary-unsigned-code-execution-technique-in-winrm-vbs-c8c24fb40404
   
-- COM XSL Transformation: Bypassing Microsoft Application Control Solutions (CVE-2018-8492) 
+#### COM XSL Transformation: Bypassing Microsoft Application Control Solutions (CVE-2018-8492) 
   - Jimmy Bayne (@bohops) 
   - https://bohops.com/2019/01/10/com-xsl-transformation-bypassing-microsoft-application-control-solutions-cve-2018-8492/
 
-- Abusing Catalog Hygiene to Bypass Application Whitelisting
+#### Abusing Catalog Hygiene to Bypass Application Whitelisting
   - Jimmy Bayne (@bohops)
   - https://bohops.com/2019/05/04/abusing-catalog-file-hygiene-to-bypass-application-whitelisting/
 
-- BYPASSING DEVICE GUARD UMCI USING CHM – CVE-2017-8625 
+#### BYPASSING DEVICE GUARD UMCI USING CHM – CVE-2017-8625 
   - Oddvar Moe (@Oddvarmoe), Matt Nelson (@enigma0x3)
   - https://oddvar.moe/2017/08/13/bypassing-device-guard-umci-using-chm-cve-2017-8625/
 
@@ -173,26 +173,26 @@ A centralized resource for previously documented WDAC bypass techniques
 ------------------------------
 ### On Block List - Not Documented Yet...
 
-addinutil.exe
-bash.exe
-dbgsvc.exe
-kd.exe
-kill.exe
-lxrun.exe
-ntkd.exe
-ntsd.exe
-texttransform.exe
-wfc.exe
-wsl.exe
-wslconfig.exe
-wslhost.exe
+-addinutil.exe
+-bash.exe
+-dbgsvc.exe
+-kd.exe
+-kill.exe
+-lxrun.exe
+-ntkd.exe
+-ntsd.exe
+-texttransform.exe
+-wfc.exe
+-wsl.exe
+-wslconfig.exe
+-wslhost.exe
+
 
 ------------------------------
 ### Libraries On List (Independent usage may/may not be interesting)
 
-
-Microsoft.Build.dll
-Microsoft.Build.Framework.dll
-msbuild.dll
-lxssmanager.dll
-system.management.automation.dll
+-Microsoft.Build.dll
+-Microsoft.Build.Framework.dll
+-msbuild.dll
+-lxssmanager.dll
+-system.management.automation.dll
