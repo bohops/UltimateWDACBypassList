@@ -27,7 +27,7 @@ A centralized resource for previously documented WDAC bypass techniques
 #### bginfo.exe
  - Oddvar Moe (@Oddvarmoe)
  - Bypassing Application Whitelisting with BGInfo
-  - https://msitpros.com/?p=3831
+   - https://msitpros.com/?p=3831
 
 #### cdb.exe
 - Matt Graeber (@mattifestation)
@@ -37,7 +37,7 @@ A centralized resource for previously documented WDAC bypass techniques
 #### csi.exe
  - Casey Smith (@subTee)
  - Application Whitelisting Bypass - CSI.EXE C# Scripting
-  - https://web.archive.org/web/20161008143428/http://subt0x10.blogspot.com/2016/09/application-whitelisting-bypass-csiexe.html
+   - https://web.archive.org/web/20161008143428/http://subt0x10.blogspot.com/2016/09/application-whitelisting-bypass-csiexe.html
 
 #### dbghost.exe
 - Matt Graeber (@mattifestation)
@@ -85,27 +85,27 @@ A centralized resource for previously documented WDAC bypass techniques
 #### mshta.exe
  - Unknown (Documented by @conscioushacker)
  -  Application Whitelisting Bypass: mshta.exe
-  - https://web.archive.org/web/20171118145940/http://blog.conscioushacker.io/index.php/2017/11/17/application-whitelisting-bypass-mshta-exe/
+   - https://web.archive.org/web/20171118145940/http://blog.conscioushacker.io/index.php/2017/11/17/application-whitelisting-bypass-mshta-exe/
 
 #### powershellcustomhost.exe
  - Lasse Trolle Borup (@TrolleBorup)
  - A simple Device Guard bypass
-  - https://danishcyberdefence.dk/blog/device-guard-powershellcustomhost
+   - https://danishcyberdefence.dk/blog/device-guard-powershellcustomhost
 
 #### rcsi.exe
  - Matt Nelson (@enigma0x3)
  - BYPASSING APPLICATION WHITELISTING BY USING RCSI.EXE
-  - https://enigma0x3.net/2016/11/21/bypassing-application-whitelisting-by-using-rcsi-exe/
+   - https://enigma0x3.net/2016/11/21/bypassing-application-whitelisting-by-using-rcsi-exe/
 
 #### runscripthelper.exe
  - Matt Graeber (@mattifestation)
  - Bypassing Application Whitelisting with runscripthelper.exe
-  - https://posts.specterops.io/bypassing-application-whitelisting-with-runscripthelper-exe-1906923658fc
+   - https://posts.specterops.io/bypassing-application-whitelisting-with-runscripthelper-exe-1906923658fc
 
 #### visualuiaverifynative.exe
  - Lee Christensen (@tifkin_) [Write-up: Jimmy Bayne (@bohops)]
  - Exploring the WDAC Microsoft Recommended Block Rules: VisualUiaVerifyNative
-  - https://bohops.com/2020/10/15/exploring-the-wdac-microsoft-recommended-block-rules-visualuiaverifynative/
+   - https://bohops.com/2020/10/15/exploring-the-wdac-microsoft-recommended-block-rules-visualuiaverifynative/
 
 #### windbg.exe
  - Matt Graeber (@mattifestation)
@@ -115,7 +115,7 @@ A centralized resource for previously documented WDAC bypass techniques
 #### wmic.exe
  - Casey Smith (@subTee)
  - WMIC.EXE Whitelisting Bypass - Hacking with Style, Stylesheets
-  - https://web.archive.org/web/20190814201250/https://subt0x11.blogspot.com/2018/04/wmicexe-whitelisting-bypass-hacking.html
+   - https://web.archive.org/web/20190814201250/https://subt0x11.blogspot.com/2018/04/wmicexe-whitelisting-bypass-hacking.html
 
 
 ------------------------------
@@ -124,9 +124,9 @@ A centralized resource for previously documented WDAC bypass techniques
 #### dbgsrv.exe
  - Casey Smith (@subTee) , Ross Wolf (@rw_access)
  - How to Bypass WDAC with dbgsrv.exe
-  - https://fortynorthsecurity.com/blog/how-to-bypass-wdac-with-dbgsrv-exe/
+   - https://fortynorthsecurity.com/blog/how-to-bypass-wdac-with-dbgsrv-exe/
  - Fantastic Red-Team Attacks and How to Find Them
-  - https://i.blackhat.com/USA-19/Thursday/us-19-Smith-Fantastic-Red-Team-Attacks-And-How-To-Find-Them.pdf
+   - https://i.blackhat.com/USA-19/Thursday/us-19-Smith-Fantastic-Red-Team-Attacks-And-How-To-Find-Them.pdf
 
 ------------------------------
 ### COM/Microsoft Office/Active Scripting Languages (jscript.dll, msxml3.dll, msxml6.dll)
