@@ -6,7 +6,7 @@ A centralized resource for previously documented WDAC bypass techniques
 *This repository was inspired by [Oddvar Moe](https://twitter.com/Oddvarmoe)'s [Ultimate AppLocker Bypass List](https://github.com/api0cradle/UltimateAppLockerByPassList)
 
 ------------------------------
-### Block Rules "LOLBIN" Write-Ups
+### Microsoft Recommended Block Rules - "LOLBIN" Write-Ups
 
 
 #### addinprocess.exe
