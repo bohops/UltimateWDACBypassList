@@ -5,6 +5,8 @@ A centralized resource for previously documented WDAC/Device Guard code integrit
 
 *This repository was inspired by [Oddvar Moe](https://twitter.com/Oddvarmoe)'s [Ultimate AppLocker Bypass List](https://github.com/api0cradle/UltimateAppLockerByPassList)
 
+*This is a work in progress...
+
 ------------------------------
 ### Microsoft Recommended Block Rules - "LOLBIN" Write-Ups
 
