@@ -1,5 +1,5 @@
 # Ultimate WDAC Bypass List
-A centralized resource for previously documented WDAC bypass techniques
+A centralized resource for previously documented WDAC/Device Guard code integrity bypass techniques
 
 *Many of the LOLBINs are included on the [Microsoft Recommended Block Rules List](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
 
@@ -8,112 +8,111 @@ A centralized resource for previously documented WDAC bypass techniques
 ------------------------------
 ### Microsoft Recommended Block Rules - "LOLBIN" Write-Ups
 
-
 #### addinprocess.exe
- - James Forshaw (@tiraniddo)
+ - By James Forshaw (@tiraniddo)
  - DG on Windows 10 S: Executing Arbitrary Code
    - https://www.tiraniddo.dev/2017/07/dg-on-windows-10-s-executing-arbitrary.html
 
 #### addinprocess32.exe
- - James Forshaw (@tiraniddo)
+ - By James Forshaw (@tiraniddo)
  - DG on Windows 10 S: Executing Arbitrary Code 
    - https://www.tiraniddo.dev/2017/07/dg-on-windows-10-s-executing-arbitrary.html
 
 #### aspnet_compiler.exe
- - cpl (@cpl3h)
+ - By cpl (@cpl3h)
  - The Curious Case of Aspnet_Compiler.exe
    - https://ijustwannared.team/2020/08/01/the-curious-case-of-aspnet_compiler-exe/
 
 #### bginfo.exe
- - Oddvar Moe (@Oddvarmoe)
+ - By Oddvar Moe (@Oddvarmoe)
  - Bypassing Application Whitelisting with BGInfo
    - https://msitpros.com/?p=3831
 
 #### cdb.exe
-- Matt Graeber (@mattifestation)
+- By Matt Graeber (@mattifestation)
 - Bypassing Application Whitelisting by using WinDbg/CDB as a Shellcode Runner
   - http://www.exploit-monday.com/2016/08/windbg-cdb-shellcode-runner.html
 
 #### csi.exe
- - Casey Smith (@subTee)
+ - By Casey Smith (@subTee)
  - Application Whitelisting Bypass - CSI.EXE C# Scripting
    - https://web.archive.org/web/20161008143428/http://subt0x10.blogspot.com/2016/09/application-whitelisting-bypass-csiexe.html
 
 #### dbghost.exe
-- Matt Graeber (@mattifestation)
+- By Matt Graeber (@mattifestation)
 - dbghost.exe - Ghost And The Darkness
   - https://web.archive.org/web/20170926164017/http://subt0x10.blogspot.com/2017/09/dbghostexe-ghost-in-darkness.html
 
 #### dnx.exe
-- Matt Nelson (@enigma0x3)
+- By Matt Nelson (@enigma0x3)
 - BYPASSING APPLICATION WHITELISTING BY USING DNX.EXE
   - https://enigma0x3.net/2016/11/17/bypassing-application-whitelisting-by-using-dnx-exe/
 
 #### dotnet.exe
- - Jimmy Bayne (@bohops)
+ - By Jimmy Bayne (@bohops)
  - DotNet Core: A Vector For AWL Bypass & Defense Evasion
    - https://bohops.com/2019/08/19/dotnet-core-a-vector-for-awl-bypass-defense-evasion/
 
 #### fsi.exe
- - Nick Tyrer (@NickTyrer)
+ - By Nick Tyrer (@NickTyrer)
  - GitHub Gist: fsi.exe inline execution
    - https://gist.github.com/NickTyrer/51eb8c774a909634fa69b4d06fc79ae1
    - https://twitter.com/NickTyrer/status/904273264385589248
 
 #### fsiAnyCpu.exe
- - Nick Tyrer (@NickTyrer) via fsi.exe inline execution
+ - By Nick Tyrer (@NickTyrer) via fsi.exe inline execution
  - GitHub Gist: fsi.exe inline execution
    - https://gist.github.com/NickTyrer/51eb8c774a909634fa69b4d06fc79ae1
    - https://twitter.com/bohops/status/1319096336441090050
 
 #### infdefaultinstall.exe
- - Kyle Hanslovan (@KyleHanslovan), Chris Bisnett (@chrisbisnett)
+ - By Kyle Hanslovan (@KyleHanslovan), Chris Bisnett (@chrisbisnett)
    - https://github.com/huntresslabs/evading-autoruns
  - RE: Evading Autoruns PoCs on Windows 10
    - https://medium.com/@KyleHanslovan/re-evading-autoruns-pocs-on-windows-10-dd810d7e8a3f
 
 #### microsoft.Workflow.Compiler.exe
- - Matt Graeber (@mattifestation)
+ - By Matt Graeber (@mattifestation)
  - Arbitrary, Unsigned Code Execution Vector in Microsoft.Workflow.Compiler.exe
    - https://posts.specterops.io/arbitrary-unsigned-code-execution-vector-in-microsoft-workflow-compiler-exe-3d9294bc5efb
 
 #### msbuild.exe
- - Casey Smith (@subTee)
+ - By Casey Smith (@subTee)
  - Bypassing Application Whitelisting using MSBuild.exe - Device Guard Example and Mitigations
    - https://web.archive.org/web/20160920161634/http://subt0x10.blogspot.com/2016/09/bypassing-application-whitelisting.html
 
 #### mshta.exe
- - Unknown (Documented by @conscioushacker)
+ - By Unknown (Documented by @conscioushacker)
  -  Application Whitelisting Bypass: mshta.exe
     - https://web.archive.org/web/20171118145940/http://blog.conscioushacker.io/index.php/2017/11/17/application-whitelisting-bypass-mshta-exe/
 
 #### powershellcustomhost.exe
- - Lasse Trolle Borup (@TrolleBorup)
+ - By Lasse Trolle Borup (@TrolleBorup)
  - A simple Device Guard bypass
    - https://danishcyberdefence.dk/blog/device-guard-powershellcustomhost
 
 #### rcsi.exe
- - Matt Nelson (@enigma0x3)
+ - By Matt Nelson (@enigma0x3)
  - BYPASSING APPLICATION WHITELISTING BY USING RCSI.EXE
    - https://enigma0x3.net/2016/11/21/bypassing-application-whitelisting-by-using-rcsi-exe/
 
 #### runscripthelper.exe
- - Matt Graeber (@mattifestation)
+ - By Matt Graeber (@mattifestation)
  - Bypassing Application Whitelisting with runscripthelper.exe
    - https://posts.specterops.io/bypassing-application-whitelisting-with-runscripthelper-exe-1906923658fc
 
 #### visualuiaverifynative.exe
- - Lee Christensen (@tifkin_) [Write-up: Jimmy Bayne (@bohops)]
+ - By Lee Christensen (@tifkin_) [Write-up: Jimmy Bayne (@bohops)]
  - Exploring the WDAC Microsoft Recommended Block Rules: VisualUiaVerifyNative
    - https://bohops.com/2020/10/15/exploring-the-wdac-microsoft-recommended-block-rules-visualuiaverifynative/
 
 #### windbg.exe
- - Matt Graeber (@mattifestation)
+ - By Matt Graeber (@mattifestation)
  - Bypassing Application Whitelisting by using WinDbg/CDB as a Shellcode Runner
    - http://www.exploit-monday.com/2016/08/windbg-cdb-shellcode-runner.html
 
 #### wmic.exe
- - Casey Smith (@subTee)
+ - By Casey Smith (@subTee)
  - WMIC.EXE Whitelisting Bypass - Hacking with Style, Stylesheets
    - https://web.archive.org/web/20190814201250/https://subt0x11.blogspot.com/2018/04/wmicexe-whitelisting-bypass-hacking.html
 
@@ -122,53 +121,80 @@ A centralized resource for previously documented WDAC bypass techniques
 ### Other "Unsigned Code Execution" LOLBINs (not on list)
 
 #### dbgsrv.exe
- - Casey Smith (@subTee) , Ross Wolf (@rw_access)
+ - By Casey Smith (@subTee) , Ross Wolf (@rw_access)
  - How to Bypass WDAC with dbgsrv.exe
    - https://fortynorthsecurity.com/blog/how-to-bypass-wdac-with-dbgsrv-exe/
  - Fantastic Red-Team Attacks and How to Find Them
    - https://i.blackhat.com/USA-19/Thursday/us-19-Smith-Fantastic-Red-Team-Attacks-And-How-To-Find-Them.pdf
 
-------------------------------
-### COM/Microsoft Office/Active Scripting Languages (jscript.dll, msxml3.dll, msxml6.dll)
-
-#### Sneaking Past Device Guard
-  - Philip Tsukerman (@PhilipTsukerman)
-  - https://conference.hitb.org/hitbsecconf2019ams/materials/D2T1%20-%20Sneaking%20Past%20Device%20Guard%20-%20Philip%20Tsukerman.pdf
-
-#### WSH INJECTION: A CASE STUDY
-  - Matt Nelson (@enigma0x3)
-  - https://enigma0x3.net/2017/08/03/wsh-injection-a-case-study/
-  
-#### Application Whitelisting Bypass and Arbitrary Unsigned Code Execution Technique in winrm.vbs
-  - Matt Graeber (@mattifestation)
-  - https://posts.specterops.io/application-whitelisting-bypass-and-arbitrary-unsigned-code-execution-technique-in-winrm-vbs-c8c24fb40404
-  
-#### COM XSL Transformation: Bypassing Microsoft Application Control Solutions (CVE-2018-8492) 
-  - Jimmy Bayne (@bohops) 
-  - https://bohops.com/2019/01/10/com-xsl-transformation-bypassing-microsoft-application-control-solutions-cve-2018-8492/
-
-#### Abusing Catalog Hygiene to Bypass Application Whitelisting
-  - Jimmy Bayne (@bohops)
-  - https://bohops.com/2019/05/04/abusing-catalog-file-hygiene-to-bypass-application-whitelisting/
-
-#### BYPASSING DEVICE GUARD UMCI USING CHM – CVE-2017-8625 
-  - Oddvar Moe (@Oddvarmoe), Matt Nelson (@enigma0x3)
-  - https://oddvar.moe/2017/08/13/bypassing-device-guard-umci-using-chm-cve-2017-8625/
-
- 
-------------------------------
-### Novel Living-of-the-land Abuse
-
- - cc: @mattifestation, @enigma0x3, @tiraniddo, @hexacorn
- - To do...
-
 
 ------------------------------
 ### PowerShell
 
- - cc: @mattifestation, @enigma0x3, @tiraniddo
- - To do...
+#### UMCI BYPASS USING PSWORKFLOWUTILITY: CVE-2017-0215
+ - By Matt Nelson (@enigma0x3)
+ - https://enigma0x3.net/2017/10/19/umci-bypass-using-psworkflowutility-cve-2017-0215/
 
+#### DEFEATING DEVICE GUARD: A LOOK INTO CVE-2017-0007
+ - By Matt Nelson (@enigma0x3)
+ - https://enigma0x3.net/2017/04/03/defeating-device-guard-a-look-into-cve-2017-0007/
+
+#### Exploiting PowerShell Code Injection Vulnerabilities to Bypass Constrained Language Mode
+ - By Matt Graeber (@mattifestation)
+ - http://www.exploit-monday.com/2017/08/exploiting-powershell-code-injection.html
+
+#### A LOOK AT CVE-2017-8715: BYPASSING CVE-2017-0218 USING POWERSHELL MODULE MANIFESTS
+ - By Matt Nelson (@enigma0x3)
+ - https://enigma0x3.net/2017/11/06/a-look-at-cve-2017-8715-bypassing-cve-2017-0218-using-powershell-module-manifests/
+
+#### CVE-2018-8212: DEVICE GUARD/CLM BYPASS USING MSFT_SCRIPTRESOURCE
+ - By Matt Nelson (@enigma0x3)
+ - https://enigma0x3.net/2018/10/10/cve-2018-8212-device-guard-clm-bypass-using-msft_scriptresource/
+ 
+#### Invoke-History Constrained Language Mode Bypass 
+ - By Matt Graeber (@mattifestation)
+ - https://twitter.com/mattifestation/status/1095416185053696000
+ 
+ 
+------------------------------
+### Novel Living-Of-The-Land/COM/Microsoft Office/Active Scripting Languages (jscript.dll, msxml3.dll, msxml6.dll)
+
+#### Bypassing Device Guard with .NET Assembly Compilation Methods
+ - By Matt Graeber (@mattifestation)
+ - http://www.exploit-monday.com/2017/07/bypassing-device-guard-with-dotnet-methods.html
+
+#### Sneaking Past Device Guard (+ CVE-2018-8417)
+ - By Philip Tsukerman (@PhilipTsukerman)
+ - https://conference.hitb.org/hitbsecconf2019ams/materials/D2T1%20-%20Sneaking%20Past%20Device%20Guard%20-%20Philip%20Tsukerman.pdf
+
+#### WLDP CLSID policy .NET COM Instantiation UMCI Bypass
+ - By James Forshaw (@tiraniddo)
+ - https://bugs.chromium.org/p/project-zero/issues/detail?id=1514&q=
+
+#### WSH INJECTION: A CASE STUDY
+ - By Matt Nelson (@enigma0x3)
+ - https://enigma0x3.net/2017/08/03/wsh-injection-a-case-study/
+  
+#### Application Whitelisting Bypass and Arbitrary Unsigned Code Execution Technique in winrm.vbs
+ - By Matt Graeber (@mattifestation)
+ - https://posts.specterops.io/application-whitelisting-bypass-and-arbitrary-unsigned-code-execution-technique-in-winrm-vbs-c8c24fb40404
+  
+#### COM XSL Transformation: Bypassing Microsoft Application Control Solutions (CVE-2018-8492) 
+ - By Jimmy Bayne (@bohops) 
+ - https://bohops.com/2019/01/10/com-xsl-transformation-bypassing-microsoft-application-control-solutions-cve-2018-8492/
+
+#### Abusing Catalog Hygiene to Bypass Application Whitelisting
+ - By Jimmy Bayne (@bohops)
+ - https://bohops.com/2019/05/04/abusing-catalog-file-hygiene-to-bypass-application-whitelisting/
+
+#### BYPASSING DEVICE GUARD UMCI USING CHM – CVE-2017-8625 
+ - By Oddvar Moe (@Oddvarmoe), Matt Nelson (@enigma0x3)
+ - https://oddvar.moe/2017/08/13/bypassing-device-guard-umci-using-chm-cve-2017-8625/
+
+#### UMCI VS INTERNET EXPLORER: EXPLORING CVE-2017-8625
+ - By Matt Nelson (@enigma0x3)
+ - https://enigma0x3.net/2017/08/24/umci-vs-internet-explorer-exploring-cve-2017-8625/
+ 
 
 ------------------------------
 ### On Block List - Not Documented Yet...
@@ -196,3 +222,34 @@ A centralized resource for previously documented WDAC bypass techniques
 - msbuild.dll
 - lxssmanager.dll
 - system.management.automation.dll
+
+
+-------------------------------
+### Defense, Policy Creation, & Research
+
+#### WDAC Policy Wizard
+ - Documentation and tools to access Windows Defender Application Control (WDAC) technology
+ - By Microsoft Docs
+ - https://github.com/MicrosoftDocs/WDAC-Toolkit
+
+#### WDACTools
+ - A PowerShell module to facilitate building, configuring, deploying, and auditing Windows Defender Application Control (WDAC) policies
+ - By Matt Graeber (@mattifestation)
+ - https://github.com/mattifestation/WDACTools
+ 
+#### WDACPolicies
+ - A collection of Windows software baseline notes with corresponding Windows Defender Application Control (WDAC) policies
+ - By Matt Graeber (@mattifestation)
+ - https://github.com/mattifestation/WDACPolicies
+ 
+#### Building a Windows Defender Application Control Lab
+ - By FortyNorth Security (@FortyNorthSec)
+ - https://fortynorthsecurity.com/blog/building-a-windows-defender-application-control-lab/
+ 
+#### Documenting and Attacking a Windows Defender Application Control Feature the Hard Way — A Case Study in Security Research Methodology
+ - By Matt Graeber (@mattifestation)
+ - https://posts.specterops.io/documenting-and-attacking-a-windows-defender-application-control-feature-the-hard-way-a-case-73dd1e11be3a
+ 
+#### Exploit Monday Blog
+ - By Matt Graeber (@mattifestation)
+ - http://www.exploit-monday.com/
