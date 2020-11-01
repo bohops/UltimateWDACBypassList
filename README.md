@@ -118,6 +118,30 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
  - WMIC.EXE Whitelisting Bypass - Hacking with Style, Stylesheets
    - https://web.archive.org/web/20190814201250/https://subt0x11.blogspot.com/2018/04/wmicexe-whitelisting-bypass-hacking.html
 
+### On Block List - Not Documented Yet...
+
+- addinutil.exe
+- bash.exe
+- dbgsvc.exe
+- kd.exe
+- kill.exe
+- lxrun.exe
+- ntkd.exe
+- ntsd.exe
+- texttransform.exe
+- wfc.exe
+- wsl.exe
+- wslconfig.exe
+- wslhost.exe
+
+### Libraries On List (Independent usage may/may not be interesting)
+
+- Microsoft.Build.dll
+- Microsoft.Build.Framework.dll
+- msbuild.dll
+- lxssmanager.dll
+- system.management.automation.dll
+
 
 ------------------------------
 ### Other "Unsigned Code Execution" LOLBINs (not on list)
@@ -197,34 +221,6 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
  - By Matt Nelson (@enigma0x3)
  - https://enigma0x3.net/2017/08/24/umci-vs-internet-explorer-exploring-cve-2017-8625/
  
-
-------------------------------
-### On Block List - Not Documented Yet...
-
-- addinutil.exe
-- bash.exe
-- dbgsvc.exe
-- kd.exe
-- kill.exe
-- lxrun.exe
-- ntkd.exe
-- ntsd.exe
-- texttransform.exe
-- wfc.exe
-- wsl.exe
-- wslconfig.exe
-- wslhost.exe
-
-
-------------------------------
-### Libraries On List (Independent usage may/may not be interesting)
-
-- Microsoft.Build.dll
-- Microsoft.Build.Framework.dll
-- msbuild.dll
-- lxssmanager.dll
-- system.management.automation.dll
-
 
 -------------------------------
 ### Defense, Policy Creation, & Research
