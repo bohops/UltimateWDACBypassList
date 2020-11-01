@@ -226,6 +226,11 @@ A centralized resource for previously documented WDAC/Device Guard code integrit
 
 -------------------------------
 ### Defense, Policy Creation, & Research
+ 
+#### WDAC Twitch Stream
+ - Fantastic videos collection that covers WDAC Policy Creation/Enforcement/Bypass/Audit/Etc.
+ - By Matt Graeber (@mattifestation)
+ - https://www.youtube.com/playlist?list=PL2Xx-q-W5pKUNaNkakjZkLmfsNvMWPdNB
 
 #### WDAC Policy Wizard
  - Documentation and tools to access Windows Defender Application Control (WDAC) technology
