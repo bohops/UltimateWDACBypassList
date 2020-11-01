@@ -118,7 +118,7 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
  - WMIC.EXE Whitelisting Bypass - Hacking with Style, Stylesheets
    - https://web.archive.org/web/20190814201250/https://subt0x11.blogspot.com/2018/04/wmicexe-whitelisting-bypass-hacking.html
 
-### On Block List - Not Documented Yet...
+#### On Block List - Not Documented Yet...
 
 - addinutil.exe
 - bash.exe
@@ -134,7 +134,7 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 - wslconfig.exe
 - wslhost.exe
 
-### Libraries On List (Independent usage may/may not be interesting)
+#### Libraries On List (Independent usage may/may not be interesting)
 
 - Microsoft.Build.dll
 - Microsoft.Build.Framework.dll
