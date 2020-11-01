@@ -1,5 +1,5 @@
 # Ultimate WDAC Bypass List
-A centralized resource for previously documented WDAC/Device Guard code integrity bypass techniques
+A centralized resource for previously documented WDAC/Device Guard/UMCI bypass techniques
 
 *Many of the LOLBINs are included on the [Microsoft Recommended Block Rules List](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
 
@@ -257,6 +257,11 @@ A centralized resource for previously documented WDAC/Device Guard code integrit
  - By Matt Graeber (@mattifestation)
  - https://posts.specterops.io/documenting-and-attacking-a-windows-defender-application-control-feature-the-hard-way-a-case-73dd1e11be3a
  
+#### WinAWL
+ - Windows Application Control Notes and Sample Policies
+ - By Brian in Pittsburgh (@arekfurt)
+ - https://github.com/arekfurt/WinAWL
+
 #### Exploit Monday Blog
  - By Matt Graeber (@mattifestation)
  - http://www.exploit-monday.com/
