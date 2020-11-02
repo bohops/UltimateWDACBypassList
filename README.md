@@ -56,16 +56,20 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
    - https://bohops.com/2019/08/19/dotnet-core-a-vector-for-awl-bypass-defense-evasion/
 
 #### fsi.exe
- - By Nick Tyrer (@NickTyrer)
+ - By Nick Tyrer (@NickTyrer) [Write-up: Jimmy Bayne (@bohops)]
  - GitHub Gist: fsi.exe inline execution
    - https://gist.github.com/NickTyrer/51eb8c774a909634fa69b4d06fc79ae1
    - https://twitter.com/NickTyrer/status/904273264385589248
+ - Exploring the WDAC Microsoft Recommended Block Rules (Part II): Wfc.exe, Fsi.exe, and FsiAnyCpu.exe
+  - https://bohops.com/2020/11/02/exploring-the-wdac-microsoft-recommended-block-rules-part-ii-wfc-fsi/
 
 #### fsiAnyCpu.exe
- - By Nick Tyrer (@NickTyrer) via fsi.exe inline execution
+ - By Nick Tyrer (@NickTyrer) via fsi.exe inline execution [Write-up: Jimmy Bayne (@bohops)]
  - GitHub Gist: fsi.exe inline execution
    - https://gist.github.com/NickTyrer/51eb8c774a909634fa69b4d06fc79ae1
    - https://twitter.com/bohops/status/1319096336441090050
+ - Exploring the WDAC Microsoft Recommended Block Rules (Part II): Wfc.exe, Fsi.exe, and FsiAnyCpu.exe
+  - https://bohops.com/2020/11/02/exploring-the-wdac-microsoft-recommended-block-rules-part-ii-wfc-fsi/
 
 #### infdefaultinstall.exe
  - By Kyle Hanslovan (@KyleHanslovan), Chris Bisnett (@chrisbisnett)
@@ -108,6 +112,11 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
  - Exploring the WDAC Microsoft Recommended Block Rules: VisualUiaVerifyNative
    - https://bohops.com/2020/10/15/exploring-the-wdac-microsoft-recommended-block-rules-visualuiaverifynative/
 
+#### wfc.exe
+ - Tipped by MSRC and Matt Graeber (@mattifestation) [Write-up: Jimmy Bayne (@bohops)]
+ - Exploring the WDAC Microsoft Recommended Block Rules (Part II): Wfc.exe, Fsi.exe, and FsiAnyCpu.exe
+  - https://bohops.com/2020/11/02/exploring-the-wdac-microsoft-recommended-block-rules-part-ii-wfc-fsi/
+
 #### windbg.exe
  - By Matt Graeber (@mattifestation)
  - Bypassing Application Whitelisting by using WinDbg/CDB as a Shellcode Runner
@@ -129,7 +138,6 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 - ntkd.exe
 - ntsd.exe
 - texttransform.exe
-- wfc.exe
 - wsl.exe
 - wslconfig.exe
 - wslhost.exe
