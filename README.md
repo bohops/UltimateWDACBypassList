@@ -61,7 +61,7 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
    - https://gist.github.com/NickTyrer/51eb8c774a909634fa69b4d06fc79ae1
    - https://twitter.com/NickTyrer/status/904273264385589248
  - Exploring the WDAC Microsoft Recommended Block Rules (Part II): Wfc.exe, Fsi.exe, and FsiAnyCpu.exe
-  - https://bohops.com/2020/11/02/exploring-the-wdac-microsoft-recommended-block-rules-part-ii-wfc-fsi/
+   - https://bohops.com/2020/11/02/exploring-the-wdac-microsoft-recommended-block-rules-part-ii-wfc-fsi/
 
 #### fsiAnyCpu.exe
  - By Nick Tyrer (@NickTyrer) via fsi.exe inline execution [Write-up: Jimmy Bayne (@bohops)]
@@ -69,7 +69,7 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
    - https://gist.github.com/NickTyrer/51eb8c774a909634fa69b4d06fc79ae1
    - https://twitter.com/bohops/status/1319096336441090050
  - Exploring the WDAC Microsoft Recommended Block Rules (Part II): Wfc.exe, Fsi.exe, and FsiAnyCpu.exe
-  - https://bohops.com/2020/11/02/exploring-the-wdac-microsoft-recommended-block-rules-part-ii-wfc-fsi/
+   - https://bohops.com/2020/11/02/exploring-the-wdac-microsoft-recommended-block-rules-part-ii-wfc-fsi/
 
 #### infdefaultinstall.exe
  - By Kyle Hanslovan (@KyleHanslovan), Chris Bisnett (@chrisbisnett)
