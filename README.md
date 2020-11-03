@@ -232,7 +232,7 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
  
 
 -------------------------------
-### Defense, Policy Creation, & Research
+### Defense, Policy Creation, Testing, & Research
  
 #### WDAC Twitch Stream
  - Fantastic videos collection that covers WDAC Policy Creation/Enforcement/Bypass/Audit/Etc.
@@ -270,3 +270,7 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 #### Exploit Monday Blog
  - By Matt Graeber (@mattifestation)
  - http://www.exploit-monday.com/
+
+#### Quick Steps for Deploying a Policy & Setting Up a WDAC Test Machine
+ - By Jimmy Bayne (@bohops)
+ - https://github.com/bohops/Notes/tree/master/Windows/WDAC-DeviceGuard
