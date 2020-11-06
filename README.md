@@ -80,7 +80,7 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
    - https://medium.com/@KyleHanslovan/re-evading-autoruns-pocs-on-windows-10-dd810d7e8a3f
 
 #### kill.exe
-  - By @@hyp3rlinx
+  - By @hyp3rlinx
   - Microsoft Process Kill Utility "kill.exe" - SEH Buffer Overflow
     - https://www.exploit-db.com/exploits/40073
     - https://twitter.com/bohops/status/1324563760967753730
