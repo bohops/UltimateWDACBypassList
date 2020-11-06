@@ -74,9 +74,16 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 
 #### infdefaultinstall.exe
  - By Kyle Hanslovan (@KyleHanslovan), Chris Bisnett (@chrisbisnett)
+ - Evading Autoruns - DerbyCon 7.0
    - https://github.com/huntresslabs/evading-autoruns
  - RE: Evading Autoruns PoCs on Windows 10
    - https://medium.com/@KyleHanslovan/re-evading-autoruns-pocs-on-windows-10-dd810d7e8a3f
+
+#### kill.exe
+  - By @@hyp3rlinx
+  - Microsoft Process Kill Utility "kill.exe" - SEH Buffer Overflow
+    - https://www.exploit-db.com/exploits/40073
+    - https://twitter.com/bohops/status/1324563760967753730
 
 #### microsoft.Workflow.Compiler.exe
  - By Matt Graeber (@mattifestation)
@@ -134,7 +141,6 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 - bash.exe
 - dbgsvc.exe
 - kd.exe
-- kill.exe
 - lxrun.exe
 - ntkd.exe
 - ntsd.exe
