@@ -82,7 +82,7 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 #### kill.exe
   - By @hyp3rlinx
   - Microsoft Process Kill Utility "kill.exe" - SEH Buffer Overflow
-    - https://www.exploit-db.com/exploits/40073
+    - http://hyp3rlinx.altervista.org/advisories/MS-KILL-UTILITY-BUFFER-OVERFLOW.txt
     - https://twitter.com/bohops/status/1324563760967753730
 
 #### microsoft.Workflow.Compiler.exe
