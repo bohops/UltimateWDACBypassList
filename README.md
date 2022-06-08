@@ -79,6 +79,12 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
  - RE: Evading Autoruns PoCs on Windows 10
    - https://medium.com/@KyleHanslovan/re-evading-autoruns-pocs-on-windows-10-dd810d7e8a3f
 
+#### InstallUtil.exe
+ - James Forshaw (@tiraniddo)
+ - DG on Windows 10 S: Abusing InstallUtil
+   - https://www.tiraniddo.dev/2017/08/dg-on-windows-10-s-abusing-installutil.html
+
+
 #### kill.exe
   - By @hyp3rlinx
   - Microsoft Process Kill Utility "kill.exe" - SEH Buffer Overflow
@@ -135,19 +141,20 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
  - WMIC.EXE Whitelisting Bypass - Hacking with Style, Stylesheets
    - https://web.archive.org/web/20190814201250/https://subt0x11.blogspot.com/2018/04/wmicexe-whitelisting-bypass-hacking.html
 
+#### WSL Family - bash.exe, lxrun.exe, wsl.exe, wslconfig.exe, wslhost.exe
+ - By Alex Ionescu (@aionescu)
+ - Fun with the Windows Subsystem for Linux
+   -  https://github.com/ionescu007/lxss
+
 #### On Block List - Not Documented Yet...
 
 - addinutil.exe
-- bash.exe
 - dbgsvc.exe
+- IntuneWindowsAgent.exe
 - kd.exe
-- lxrun.exe
 - ntkd.exe
 - ntsd.exe
 - texttransform.exe
-- wsl.exe
-- wslconfig.exe
-- wslhost.exe
 
 #### Libraries On List (Independent usage may/may not be interesting)
 
@@ -236,6 +243,9 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
  - By Matt Nelson (@enigma0x3)
  - https://enigma0x3.net/2017/08/24/umci-vs-internet-explorer-exploring-cve-2017-8625/
  
+#### Bypassing WDAC with Previous Versions of Signed Script Hosts & Signature Catalog Files
+ - By William Easton (@strawgate)
+ - https://github.com/strawgate/Advisories/blob/main/Microsoft/VULN-051861.md
 
 -------------------------------
 ### Defense, Policy Creation, Testing, & Research
