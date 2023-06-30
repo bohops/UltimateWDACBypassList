@@ -42,7 +42,7 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
    - https://web.archive.org/web/20161008143428/http://subt0x10.blogspot.com/2016/09/application-whitelisting-bypass-csiexe.html
 
 #### dbghost.exe
-- By Matt Graeber (@mattifestation)
+- By Casey Smith (@subTee)
 - dbghost.exe - Ghost And The Darkness
   - https://web.archive.org/web/20170926164017/http://subt0x10.blogspot.com/2017/09/dbghostexe-ghost-in-darkness.html
 
