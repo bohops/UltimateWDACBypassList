@@ -9,7 +9,7 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 *As always, this is a work in progress...
 
 ------------------------------
-### Microsoft Recommended Block Rules - "LOLBIN" Write-Ups
+### Applications that can bypass WDAC - "LOLBIN" Write-Ups
 
 #### addinprocess.exe
  - By James Forshaw (@tiraniddo)
