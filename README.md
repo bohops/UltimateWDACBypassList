@@ -168,7 +168,7 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 - msbuild.dll
 - lxssmanager.dll
 - system.management.automation.dll
-- davsvc.dll
+- webclnt.dll/davsvc.dll
 - mfc40.dll
 
 ------------------------------
