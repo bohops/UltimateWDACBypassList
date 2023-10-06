@@ -2,11 +2,11 @@
 
 A centralized resource for previously documented WDAC/Device Guard/UMCI bypass techniques as well for building/managing/testing WDAC policies
 
-*Many of the LOLBINs are included on the [Microsoft Recommended Block Rules List](https://docs.microsoft.com/en-us/windows/security/threat-protection/windows-defender-application-control/microsoft-recommended-block-rules)
+*Many of the LOLBINs are included on the [Applications that can bypass WDAC List](https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/applications-that-can-bypass-wdac) formerly called the "Microsoft Recommended Block Rules List"
 
 *This repository was inspired by [Oddvar Moe](https://twitter.com/Oddvarmoe)'s [Ultimate AppLocker Bypass List](https://github.com/api0cradle/UltimateAppLockerByPassList)
 
-*This is a work in progress...
+*As always, this is a work in progress...
 
 ------------------------------
 ### Microsoft Recommended Block Rules - "LOLBIN" Write-Ups
@@ -20,6 +20,11 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
  - By James Forshaw (@tiraniddo)
  - DG on Windows 10 S: Executing Arbitrary Code 
    - https://www.tiraniddo.dev/2017/07/dg-on-windows-10-s-executing-arbitrary.html
+
+#### addinutil.exe
+ - By Unknown (Documented by @McKinleyMike and @TheLatteri)
+ - Insecure Deserialization in AddinUtil.exe 
+   - https://www.blue-prints.blog/content/blog/posts/lolbin/addinutil-lolbas.html
 
 #### aspnet_compiler.exe
  - By cpl (@cpl3h)
@@ -80,7 +85,7 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
    - https://medium.com/@KyleHanslovan/re-evading-autoruns-pocs-on-windows-10-dd810d7e8a3f
 
 #### InstallUtil.exe
- - James Forshaw (@tiraniddo)
+ - By James Forshaw (@tiraniddo)
  - DG on Windows 10 S: Abusing InstallUtil
    - https://www.tiraniddo.dev/2017/08/dg-on-windows-10-s-abusing-installutil.html
 
@@ -148,13 +153,13 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 
 #### On Block List - Not Documented Yet...
 
-- addinutil.exe
 - dbgsvc.exe
 - IntuneWindowsAgent.exe
 - kd.exe
 - ntkd.exe
 - ntsd.exe
 - texttransform.exe
+- HVCIScan.exe
 
 #### Libraries On List (Independent usage may/may not be interesting)
 
@@ -163,7 +168,8 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 - msbuild.dll
 - lxssmanager.dll
 - system.management.automation.dll
-
+- davsvc.dll
+- mfc40.dll
 
 ------------------------------
 ### Other "Unsigned Code Execution" LOLBINs (not on list)
@@ -174,7 +180,6 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
    - https://fortynorthsecurity.com/blog/how-to-bypass-wdac-with-dbgsrv-exe/
  - Fantastic Red-Team Attacks and How to Find Them
    - https://i.blackhat.com/USA-19/Thursday/us-19-Smith-Fantastic-Red-Team-Attacks-And-How-To-Find-Them.pdf
-
 
 ------------------------------
 ### PowerShell
@@ -290,3 +295,7 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 #### Quick Steps for Deploying a Policy & Setting Up a WDAC Test Machine
  - By Jimmy Bayne (@bohops)
  - https://github.com/bohops/Notes/tree/master/Windows/WDAC-DeviceGuard
+
+#### Windows Defender Application Control (WDAC) Updates in 20H2 and Building a Simple, Secure Windows-only Policy
+ - By Matt Graeber (@mattifestation)
+ - https://mattifestation.medium.com/windows-defender-application-control-wdac-updates-in-20h2-and-building-a-simple-secure-4fd4ee86de4
