@@ -294,8 +294,17 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 
 #### Quick Steps for Deploying a Policy & Setting Up a WDAC Test Machine
  - By Jimmy Bayne (@bohops)
- - https://github.com/bohops/Notes/tree/master/Windows/WDAC-DeviceGuard
+ - Restrictive Policy: https://gist.github.com/bohops/bd763d87187b79c0c749da6be7be8a42
+ - Scan Policy: https://gist.github.com/bohops/148375490c5ead713ed8a433b466182f
 
 #### Windows Defender Application Control (WDAC) Updates in 20H2 and Building a Simple, Secure Windows-only Policy
  - By Matt Graeber (@mattifestation)
  - https://mattifestation.medium.com/windows-defender-application-control-wdac-updates-in-20h2-and-building-a-simple-secure-4fd4ee86de4
+
+#### Harden Windows Security: WDAC Notes
+ - By HotCakeX (@HotCakeX)
+ - https://github.com/HotCakeX/Harden-Windows-Security/wiki/WDAC-Notes
+
+#### WDAC Notes
+ - By Chad Duffey (@duff22b)
+ - https://www.chadduffey.com/wdac/2021/01/26/WDAC-notes.html
