@@ -89,6 +89,10 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
  - DG on Windows 10 S: Abusing InstallUtil
    - https://www.tiraniddo.dev/2017/08/dg-on-windows-10-s-abusing-installutil.html
 
+#### IntuneWindowsAgent.exe (Microsoft.Management.Services.IntuneWindowsAgent.exe)
+ - By Kim Oppalfens (@TheWMIGuy)
+ - Intune Windows Agent Bypass Explanation
+    - https://github.com/bohops/UltimateWDACBypassList/issues/1
 
 #### kill.exe
   - By @hyp3rlinx
@@ -154,7 +158,6 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 #### On Block List - Not Documented Yet...
 
 - dbgsvc.exe
-- IntuneWindowsAgent.exe
 - kd.exe
 - ntkd.exe
 - ntsd.exe
