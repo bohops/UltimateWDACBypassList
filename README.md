@@ -3,6 +3,7 @@
 A centralized resource for previously documented WDAC/Device Guard/UMCI bypass techniques as well for building/managing/testing WDAC policies
 
 *Many of the LOLBINs are included on the [Applications that can bypass WDAC List](https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/applications-that-can-bypass-wdac) formerly called the "Microsoft Recommended Block Rules List"
+ - `Pro Tip`: If applying the Block Rules policy, don't forget to remove the first two file rules: `ID_ALLOW_A_1` and `ID_ALLOW_A_2`
 
 *This repository was inspired by [Oddvar Moe](https://twitter.com/Oddvarmoe)'s [Ultimate AppLocker Bypass List](https://github.com/api0cradle/UltimateAppLockerByPassList)
 
@@ -211,7 +212,6 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
  - By Matt Graeber (@mattifestation)
  - https://twitter.com/mattifestation/status/1095416185053696000
  
- 
 ------------------------------
 ### Novel Living-Of-The-Land/COM/Microsoft Office/Active Scripting Languages (jscript.dll, msxml3.dll, msxml6.dll)
 
@@ -254,6 +254,10 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 #### Bypassing WDAC with Previous Versions of Signed Script Hosts & Signature Catalog Files
  - By William Easton (@strawgate)
  - https://github.com/strawgate/Advisories/blob/main/Microsoft/VULN-051861.md
+
+#### Bypassing Windows Defender Application Control with Loki C2 (via Electron Apps)
+ - By Bobby Cooke (0xBoku)
+ - https://www.ibm.com/think/x-force/bypassing-windows-defender-application-control-loki-c2
 
 -------------------------------
 ### Defense, Policy Creation, Testing, & Research
