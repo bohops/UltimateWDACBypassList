@@ -185,6 +185,11 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
  - Fantastic Red-Team Attacks and How to Find Them
    - https://i.blackhat.com/USA-19/Thursday/us-19-Smith-Fantastic-Red-Team-Attacks-And-How-To-Find-Them.pdf
 
+#### WinDbgX.exe
+ - By Cerbersec (@cerbersec)
+ - Bypass WDAC WinDbg Preview
+   - https://cerbersec.com/2025/04/07/bypass-wdac-windbg-preview.html
+
 ------------------------------
 ### PowerShell
 
