@@ -260,9 +260,17 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
  - By William Easton (@strawgate)
  - https://github.com/strawgate/Advisories/blob/main/Microsoft/VULN-051861.md
 
-#### Bypassing Windows Defender Application Control with Loki C2 (via Electron Apps)
+
+------------------------------
+### Novel Exploitation/Bring Your Own Vulnerable Application (BYVA)
+
+#### Bypassing Windows Defender Application Control with Loki C2 (via NodeJS-Electron Apps)
  - By Bobby Cooke (0xBoku)
  - https://www.ibm.com/think/x-force/bypassing-windows-defender-application-control-loki-c2
+
+#### Operationalizing browser exploits to bypass Windows Defender Application Control (WDAC)
+- By Valentina Palmiotti (@chompie1337)
+- https://www.ibm.com/think/x-force/operationalizing-browser-exploits-to-bypass-wdac
 
 -------------------------------
 ### Defense, Policy Creation, Testing, & Research
