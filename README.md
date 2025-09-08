@@ -1,6 +1,7 @@
 # Ultimate WDAC Bypass List
 
 A centralized resource for previously documented WDAC/Device Guard/UMCI bypass techniques as well for building/managing/testing WDAC policies
+ - Note: WDAC (Windows Defender Application Control) has been rebranded by Microsoft as "Application Control" or "Application Control for Business" 
 
 *Many of the LOLBINs are included on the [Applications that can bypass WDAC List](https://learn.microsoft.com/en-us/windows/security/application-security/application-control/windows-defender-application-control/design/applications-that-can-bypass-wdac) formerly called the "Microsoft Recommended Block Rules List"
  - `Pro Tip`: If applying the Block Rules policy, don't forget to remove the first two file rules: `ID_ALLOW_A_1` and `ID_ALLOW_A_2`
