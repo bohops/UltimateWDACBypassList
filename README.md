@@ -53,6 +53,13 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 - dbghost.exe - Ghost And The Darkness
   - https://web.archive.org/web/20170926164017/http://subt0x10.blogspot.com/2017/09/dbghostexe-ghost-in-darkness.html
 
+#### dbgsrv.exe
+ - By Casey Smith (@subTee), Ross Wolf (@rw_access)
+ - How to Bypass WDAC with dbgsrv.exe
+   - https://fortynorthsecurity.com/blog/how-to-bypass-wdac-with-dbgsrv-exe/
+ - Fantastic Red-Team Attacks and How to Find Them
+   - https://i.blackhat.com/USA-19/Thursday/us-19-Smith-Fantastic-Red-Team-Attacks-And-How-To-Find-Them.pdf
+
 #### dnx.exe
 - By Matt Nelson (@enigma0x3)
 - BYPASSING APPLICATION WHITELISTING BY USING DNX.EXE
@@ -132,6 +139,12 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
  - Bypassing Application Whitelisting with runscripthelper.exe
    - https://posts.specterops.io/bypassing-application-whitelisting-with-runscripthelper-exe-1906923658fc
 
+#### texttransform.exe
+ - By Unknown (Documented by Casey Smith (_subTee))
+ - TextTransformer (Tool Use Case)
+   - https://github.com/secdev02/TextTransformer
+ - Placeholder reference (coming soon)
+
 #### visualuiaverifynative.exe
  - By Lee Christensen (@tifkin_) [Write-up: Jimmy Bayne (@bohops)]
  - Exploring the WDAC Microsoft Recommended Block Rules: VisualUiaVerifyNative
@@ -163,7 +176,6 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 - kd.exe
 - ntkd.exe
 - ntsd.exe
-- texttransform.exe
 - HVCIScan.exe
 
 #### Libraries On List (Independent usage may/may not be interesting)
@@ -179,12 +191,11 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 ------------------------------
 ### Other "Unsigned Code Execution" LOLBINs (not on list)
 
-#### dbgsrv.exe
- - By Casey Smith (@subTee) , Ross Wolf (@rw_access)
- - How to Bypass WDAC with dbgsrv.exe
-   - https://fortynorthsecurity.com/blog/how-to-bypass-wdac-with-dbgsrv-exe/
- - Fantastic Red-Team Attacks and How to Find Them
-   - https://i.blackhat.com/USA-19/Thursday/us-19-Smith-Fantastic-Red-Team-Attacks-And-How-To-Find-Them.pdf
+#### texttransformcore.exe
+ - Placeholder reference (coming soon)
+
+#### microsoft.xsldebugger.host.exe
+ - Placeholder reference (coming soon)
 
 #### WinDbgX.exe
  - By Cerbersec (@cerbersec)
