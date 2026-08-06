@@ -140,9 +140,11 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
    - https://posts.specterops.io/bypassing-application-whitelisting-with-runscripthelper-exe-1906923658fc
 
 #### texttransform.exe
- - By Unknown (Documented by Casey Smith (_subTee))
- - TextTransformer (Tool Use Case)
+ - By Unknown 
+ - TextTransformer - Tool Use Case [Documented by Casey Smith (@_subTee)]
    - https://github.com/secdev02/TextTransformer
+ - TextTransform Shellcode Injection Template [Documented by Chris Sphen (@ConsciousHacker)]
+   - https://gist.github.com/ConsciousHacker/40dfd14b9ecefec49803c509712346a9
  - Placeholder reference (coming soon)
 
 #### visualuiaverifynative.exe
