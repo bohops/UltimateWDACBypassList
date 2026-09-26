@@ -194,10 +194,10 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 ### Other "Unsigned Code Execution" LOLBINs/PowerShell (not on list)
 
 #### texttransformcore.exe
- - Placeholder reference (coming soon)
+ - https://github.com/LOLBAS-Project/LOLBAS/pull/496 (coming soon)
 
 #### microsoft.xsldebugger.host.exe
- - Placeholder reference (coming soon)
+ - https://github.com/LOLBAS-Project/LOLBAS/pull/496 (coming soon)
 
 #### WinDbgX.exe
  - By Cerbersec (@cerbersec)
