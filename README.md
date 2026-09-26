@@ -191,7 +191,7 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 - mfc40.dll
 
 ------------------------------
-### Other "Unsigned Code Execution" LOLBINs (not on list)
+### Other "Unsigned Code Execution" LOLBINs/PowerShell (not on list)
 
 #### texttransformcore.exe
  - Placeholder reference (coming soon)
@@ -203,6 +203,11 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
  - By Cerbersec (@cerbersec)
  - Bypass WDAC WinDbg Preview
    - https://cerbersec.com/2025/04/07/bypass-wdac-windbg-preview.html
+
+#### PSNativeCmdDevKit (PowerShell)
+ - By Matt Nelson (@enigma0x3)
+ - https://gist.github.com/enigma0x3/22d6fc84956f154faf338966cd6d9bb0
+ - https://x.com/enigma0x3/status/2100628652664787319
 
 ------------------------------
 ### PowerShell
@@ -273,7 +278,6 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 #### Bypassing WDAC with Previous Versions of Signed Script Hosts & Signature Catalog Files
  - By William Easton (@strawgate)
  - https://github.com/strawgate/Advisories/blob/main/Microsoft/VULN-051861.md
-
 
 ------------------------------
 ### Novel Exploitation/Bring Your Own Vulnerable Application (BYVA)
