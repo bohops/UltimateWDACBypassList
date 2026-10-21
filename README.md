@@ -292,7 +292,12 @@ A centralized resource for previously documented WDAC/Device Guard/UMCI bypass t
 
 -------------------------------
 ### Defense, Policy Creation, Testing, & Research
- 
+
+#### AppControl.ai Blog
+- Excellent blog for App Control/WDAC management, deployment strategies, and overcoming gaps and risks
+- By Kim Oppalfens (@TheWMIGuy)
+- https://www.appcontrol.ai/blog
+
 #### WDAC Twitch Stream
  - Fantastic videos collection that covers WDAC Policy Creation/Enforcement/Bypass/Audit/Etc.
  - By Matt Graeber (@mattifestation)
